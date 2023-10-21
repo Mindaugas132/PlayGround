@@ -1,3 +1,5 @@
+package Silly_Apps;
+
 import com.sun.jdi.IntegerValue;
 
 import java.io.BufferedReader;
